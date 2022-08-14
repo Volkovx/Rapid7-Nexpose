@@ -11,7 +11,6 @@ __author__ = Volkovx
 __github__ = https://github.com/Volkovx
 __date__ = 08/14/2022
 __version__ = 1.0
-__status__ = Development
 '''
 
 import os
