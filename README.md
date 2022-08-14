@@ -1,7 +1,8 @@
 # Rapid7-Nexpose
-This repo contains scripts I have written to interact with Rapid7's Nexpose API and get specific information about various scanned assets/categorizations using Pandas library.
+This repo contains scripts I have written to interact with Rapid7's Nexpose API and get specific information from Nexpose's various API calls.
 
 # NOTES:
 1. Ensure to change the host URL to your company's Nexpose API server.
-2. Make sure to either create a "Data" directory in your code's directory, or change the path of all output files under 'save_data' method to whatever you prefer. 
-3. This script is a complete package, it contains the class which stores Nexpose credentials & data, API calls, and the functions to run the script and save all data to specified path.
+2. Make sure to update the directory paths of 'Data' and 'Output' directories. 
+3. All provided scripts are complete packages, each .py script contains all needed information to get the job done.
+4. PLEASE READ ALL PROVIDED COMMENTS IN EACH SCRIPT ESPECIALLY THE SCRIPT DESCRIPTION AT THE START OF EACH SCRIPT.
