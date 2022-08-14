@@ -492,5 +492,5 @@ class Main: # Class stores all needed Nexpose data as class attributes to then b
         print("\nAll done! code execution time: ",round((end-start)/60)," minute(s)")
 
 
-main = Main()
-main.loader()
+main = Main() # Instantiates an object of the 'Main()' class
+main.loader() # Runs all above methods/API calls
