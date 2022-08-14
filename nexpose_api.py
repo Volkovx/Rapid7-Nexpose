@@ -70,7 +70,7 @@ class Main: # Class stores all needed Nexpose data as class attributes to then b
         
         # Prompts user to select which Nexpose host to access.
         valid_hosts = {
-            '1':['prod','LINK TO YOUR PRODUCTION API SERVER'].
+            '1':['prod','LINK TO YOUR PRODUCTION API SERVER'],
             '2':['dev','LINK TO YOUR DEV ENVIRONEMENT API SERVER']}
         if host == None:
             selection = 0
