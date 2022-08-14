@@ -4,15 +4,14 @@ All rights reserved.
 This source code is licensed under the BSD-style license found in the
 LICENSE file in the root directory of this source tree. 
 
-This script pulls all Nexpose site included & excluded targets, then proceeds to compare provided IP address (entered by the user) or addresses (using a .txt file) to find the correct site they are under.
+This script pulls all Nexpose site included & excluded targets, then proceeds to compare provided IP address (entered by the user) 
+or addresses (using a .txt file) to find the correct site they are under.
 
 __author__ = Volkovx
 __github__ = https://github.com/Volkovx
 __date__ = 08/14/2022
 __version__ = 1.0
 '''
-
-
 
 import pandas as pd
 import numpy as np
