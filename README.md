@@ -1,4 +1,4 @@
-# Rapid7-Nexpose
+# Rapid7-Nexpose scripts written in Python
 This repo contains scripts I have written to interact with Rapid7's Nexpose API and get data from Nexpose's various API calls/methods.
 
 # NOTES:
