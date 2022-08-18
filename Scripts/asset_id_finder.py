@@ -1,7 +1,6 @@
 '''
-This script takes a .txt file containing either hostnames OR IPs as an input
-(each entry must be separated by a newline), then outputs the asset ID and
-general asset info for each of the file entries.
+This script takes a .txt file containing either hostnames OR IPs as an input (each entry must be separated by a newline),
+then outputs the asset ID and a short summary on the asset.
 
 __author__ = "xVolkov"
 __github__ = https://github.com/xVolkov
