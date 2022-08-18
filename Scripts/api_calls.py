@@ -7,8 +7,8 @@ LICENSE file in the root directory of this source tree.
 
 This scripts pulls data from Rapid7's Nexpose API using various class methods (API calls), then saves pulled data into pandas dataframes and extract them to .csv format for the user.
 
-__author__ = Volkovx
-__github__ = https://github.com/Volkovx
+__author__ = xVolkov
+__github__ = https://github.com/xVolkov
 __date__ = 08/14/2022
 __version__ = 1.0
 '''
